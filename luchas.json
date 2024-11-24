@@ -1,0 +1,7 @@
+[
+{ "url":"RecordingBerlinMayDay1.wav","type":"audio","bank":"berlin-mayday","n":0},
+{ "url":"RecordingBerlinMayDay2.wav","type":"audio","bank":"berlin-mayday","n":1},
+{ "url":"2019Chile.wav","type":"audio","bank":"chile-2019","n":0},
+{ "url":"RecordingHamiltonGazaMarch1.wav","type":"audio","bank":"hamilton-gaza","n":0},
+{ "url":"RecordingHamiltonGazaMarch2.wav","type":"audio","bank":"hamilton-gaza","n":1}
+]
